@@ -1,0 +1,23 @@
+body
+{
+    background-color: orange;
+}
+
+#score
+{
+    font-size: 35px;
+    margin-left: -1000px;
+}
+
+#timer
+{
+    font-size: 35px;
+    float: right;
+    margin-right: 150px;
+}
+
+#sketch_required
+{
+    color: cyan;
+    font-size: 25px;
+}
